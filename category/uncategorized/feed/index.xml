@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; 加拿大车库门</title>
+	<atom:link href="https://chekumen.ca/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://chekumen.ca/</link>
+	<description></description>
+	<lastBuildDate>Thu, 08 Feb 2024 02:04:18 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<item>
+		<title>WordPress “纯”静态化</title>
+		<link>https://chekumen.ca/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96/</link>
+					<comments>https://chekumen.ca/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 02:04:18 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://chekumen.ca/?p=6</guid>
+
+					<description><![CDATA[前几天才发表了 WordPress 的 CDN 方案，但是很快就反水了，并不是因为那个方案不够好，而是越写博客 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>前几天才发表了 WordPress 的 CDN 方案，但是很快就反水了，并不是因为那个方案不够好，而是越写博客越发现，静态博客才是个人博客应有的终极形态。</p>
+
+
+
+<p>很多朋友都在劝我抛弃 WordPress 转投 Hexo 的怀抱，不过确实，“纯”静态博客个人才是博客应有的样子。为什么要加一个“纯”呢？就像 WordPress，很多人通过伪静态，把页面后缀改为 html，再使 CDN 强制缓存，达到一个静态的效果。但这样的 伪静态 并非 静态博客 的真正样貌。</p>
+
+
+
+<p>为什么不使用 Hexo 或者其他方案，因为仅 Hexo 对我来说是完全陌生的，而且其所使用的技术栈，也是我完全不懂的。相较于使用一些完全不懂的东西，不如去继续把手头正在用的改造的更好，毕竟内容才是博客最主要的。</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="614" height="1024" src="https://chekumen.ca/wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_-614x1024.png" alt="" class="wp-image-8" srcset="https://chekumen.ca/wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_-614x1024.png 614w, https://chekumen.ca/wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_-180x300.png 180w, https://chekumen.ca/wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_.png 768w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://storage.51yun.ca/yellow-page-photos/e2f4494b-1598-4e14-aabb-2604bb5d193b.1080x810.jpg" alt=""/></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chekumen.ca/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://chekumen.ca/hello-world/</link>
+					<comments>https://chekumen.ca/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 08 Feb 2024 02:01:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://chekumen.ca/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or  [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://chekumen.ca/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

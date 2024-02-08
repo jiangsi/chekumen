@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《Sample Page》的评论	</title>
-	<atom:link href="https://chekumen.ca/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>https://chekumen.ca/</link>
+	<atom:link href="https://www.chekumen.ca/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.chekumen.ca/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Feb 2024 02:01:03 +0000</lastBuildDate>
 	<sy:updatePeriod>

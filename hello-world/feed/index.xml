@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	《Hello world!》的评论	</title>
-	<atom:link href="/hello-world/feed" rel="self" type="application/rss+xml" />
-	<link>/hello-world</link>
+	「Hello world!」的评论	</title>
+	<atom:link href="/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Feb 2024 03:37:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		评论者：admin		</title>
-		<link>/hello-world#comment-2</link>
+		<link>/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 08 Feb 2024 03:37:01 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		评论者：A WordPress Commenter		</title>
-		<link>/hello-world#comment-1</link>
+		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 08 Feb 2024 02:01:03 +0000</pubDate>

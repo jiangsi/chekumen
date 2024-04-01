@@ -9,7 +9,7 @@
 
 <channel>
 	<title>admin &#8211; 加拿大车库门</title>
-	<atom:link href="/author/admin/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 08 Feb 2024 02:04:18 +0000</lastBuildDate>
@@ -19,10 +19,18 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://images.chekumen.ca/gradedoor/2024/02/ComfyUI_00010_-300x300-1-150x150.png</url>
+	<title>admin &#8211; 加拿大车库门</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>WordPress “纯”静态化</title>
-		<link>/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96</link>
-					<comments>/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96#respond</comments>
+		<link>/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96/</link>
+					<comments>/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 08 Feb 2024 02:04:18 +0000</pubDate>
@@ -47,22 +55,22 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="614" height="1024" src="/wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_-614x1024.png" alt="" class="wp-image-8" srcset="/wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_-614x1024.png 614w, /wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_-180x300.png 180w, /wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_.png 768w" sizes="(max-width: 614px) 100vw, 614px" /></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="/wp-content/uploads/2024/02/ComfyUI_temp_sikrx_00002_-614x1024.png" alt="" class="wp-image-8"/></figure>
 
 
 
 <figure class="wp-block-image size-large"><img decoding="async" src="https://storage.51yun.ca/yellow-page-photos/e2f4494b-1598-4e14-aabb-2604bb5d193b.1080x810.jpg" alt=""/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96/feed</wfw:commentRss>
+					<wfw:commentRss>/wordpress-%e7%ba%af%e9%9d%99%e6%80%81%e5%8c%96/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>/hello-world</link>
-					<comments>/hello-world#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 08 Feb 2024 02:01:03 +0000</pubDate>
@@ -74,7 +82,7 @@
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>2</slash:comments>
 		
 		
